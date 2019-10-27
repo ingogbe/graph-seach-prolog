@@ -14,7 +14,7 @@ O programa deve mostrar os caminhos entre dois usuários, a origem e o alvo, con
 
 ## Exemplo do arquivo de dados
 
-![Grafo de ligação entre amigos](Grafo.png)
+<img alt="Grafo de ligação entre amigos" src="Grafo.png" style="width: 350px"/>
 
 ```prolog
 % Formato do Arquivo de Dados de Existência de Ligação entre Amigos
